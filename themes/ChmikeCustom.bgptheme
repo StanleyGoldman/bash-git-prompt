@@ -12,7 +12,7 @@ override_git_prompt_colors() {
   Time12a="\$(date +%H:%M)"
 
 
-  GIT_PROMPT_THEME_NAME="Chmike"
+  GIT_PROMPT_THEME_NAME="Custom"
   GIT_PROMPT_BRANCH="${Green}"
   GIT_PROMPT_REMOTE=" "
   GIT_PROMPT_SYMBOLS_NO_REMOTE_TRACKING="*"
